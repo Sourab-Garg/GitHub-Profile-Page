@@ -22,5 +22,9 @@ Welcome to the GitHub Profile Viewer! This web application allows users to input
 - ## Landing Page
 ![image](https://github.com/Sourab-Garg/GitHub-Profile-Page/assets/157104236/2f345721-a1b2-4361-b36b-d5851f9bab61)
 
+- ## Search Result
+![image](https://github.com/Sourab-Garg/GitHub-Profile-Page/assets/157104236/10dd9eef-81d9-4ff6-9c60-ccfb3effefb2)
+
 - ## If user is not found
 ![image](https://github.com/Sourab-Garg/GitHub-Profile-Page/assets/157104236/f454ee90-84f7-473a-b2a6-6ffcb6388f25)
+
